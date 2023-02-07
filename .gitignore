@@ -1,1 +1,8 @@
 .idea
+ignore
+.DS_Store
+.terraform
+.terraform.lock.hcl
+tfplan
+_run.sh
+out
