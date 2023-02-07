@@ -5,7 +5,7 @@
 <br/><br/>
 
 ## Data platforms: From sources to dashboards
-![Data platform](https://github.com/data-and-cloud/draw-io/blob/ef803b3665584eee08e20aa20ad4683c22800beb/data_platform_dashboard.drawio.svg)
+![Data platform](https://github.com/data-and-cloud/draw-io/blob/f1dbe6b86f373152f1c2d0beeb79e148660e7e35/data_platform_dashboard.drawio.svg)
 
 <br/><br/>
 
