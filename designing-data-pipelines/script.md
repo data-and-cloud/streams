@@ -1,6 +1,11 @@
 # Overview
 1. Basics
-   * Why? 
+   * What is this streaming channel about?
+     * Sharing, discussing, inspiring
+     * Interactive
+     * Collaborations
+     * [Ideas for streams](../ideas.md)
+   * Why are we building data pipelines? 
    * Targets
      * Source to SQL Engine
      * SQL Engine to SQL Engine
