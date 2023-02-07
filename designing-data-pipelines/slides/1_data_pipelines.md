@@ -10,5 +10,5 @@
 <br/><br/>
 
 ## Data products: Webshop Search
-![Search Engine](https://github.com/data-and-cloud/draw-io/blob/ea1d13464c237e297245eda8a1ea9f0225163b9b/data_product_insert.drawio.svg)
+![Search Engine](https://github.com/data-and-cloud/draw-io/blob/77a32d8974250200e67a76eda474d6d9aa58621c/data_product_insert.drawio.svg)
 
