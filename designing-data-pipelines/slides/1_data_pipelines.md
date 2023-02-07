@@ -10,4 +10,4 @@
 <br/><br/>
 
 ## Data products: 
-![Search Engine](https://github.com/data-and-cloud/draw-io/blob/f9279a65d4b181fa746aad69b6a974ea80b90715/data_product_insert.drawio.svg)
+![Search Engine](https://github.com/data-and-cloud/draw-io/blob/c112730c4830106dc35ae29691d447868e90b304/data_product_insert.drawio.svg)
