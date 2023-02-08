@@ -11,7 +11,14 @@
 <br/><br/><br/><br/>
 
 ## Batch insert pipelines
-![batch insert pipeline](https://github.com/data-and-cloud/draw-io/blob/fb21a7034ad405e5ad5ed6ccb03cef8b2ad06f6f/pipeline_types_batch_insert.drawio.svg)
+### Scheduled
+![batch insert pipeline scheduled](https://github.com/data-and-cloud/draw-io/blob/3627136c27f37b5bd2cddbc32f61d033d287d37c/pipeline_types_batch_insert_scheduled.drawio.svg)
+
+<br/><br/>
+
+### Event-based
+![batch insert pipeline event based](https://github.com/data-and-cloud/draw-io/blob/3627136c27f37b5bd2cddbc32f61d033d287d37c/pipeline_types_batch_insert_event_based.drawio.svg)
+
 
 <br/><br/><br/><br/>
 
