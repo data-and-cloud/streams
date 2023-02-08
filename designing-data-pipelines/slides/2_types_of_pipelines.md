@@ -1,5 +1,8 @@
 # Most common types of pipelines
 
+* Streaming vs. batch
+* Event-based vs. scheduled
+
 <br/><br/><br/><br/>
 
 ## Streaming pipelines
