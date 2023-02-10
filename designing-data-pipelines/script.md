@@ -25,7 +25,9 @@
      * Infrastructure as Code
 
 2. Quality criteria
-   * Idempotence (data maintenance)
+   * Integrity assurance & self-healing
+     * Idempotence (data maintenance) of tasks
+     * Automated end-to-end back-filling
    * Infrastructure as code (Terraform)
    * Code quality & testability (inversion of control)
    * Independence of framework / technology (vendor/tool lock-in)
@@ -33,7 +35,7 @@
      * Usage of serverless technology (also affects costs) 
      * self-healing capabilities)
 
-3. Practical part
+4. Practical part
    * Step through some code with room for improvement
      * take files from gcs and load to bq (business description)
      * how this could be done in an easier manner

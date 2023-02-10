@@ -1,7 +1,7 @@
 # Ideas for single & multi-part streams
 
 ## Basics
-* Basics of ML Ops with Terraform (e.g. GitHub Actions, Docker, keyless authentication, CI/CD)
+* Basics of ML Ops with Terraform (e.g. GitHub Actions, Docker, keyless authentication, CI/CD, remote Terraform modules)
 * Basics of code structuring and testing in Python (applying best practices contextually)
 * Basics of Google Dataflow
 
